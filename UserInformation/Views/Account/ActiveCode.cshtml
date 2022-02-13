@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "ActiveCode";
+}
+<h2>ActiveCode</h2>
+<div class="container">
+    <div class="row">
+        @if (ViewBag.Issuccess)
+        {
+            <div class="alert alert-success text-center">
+                <h4> کاربر گرامی حساب شما با موفقیت فعال شد </h4>
+                <a href="/Login">ورود</a>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger text-center">
+                <h4> حساب شما غیر فعال می باشد</h4>
+            </div>
+        }
+    </div>
+</div>

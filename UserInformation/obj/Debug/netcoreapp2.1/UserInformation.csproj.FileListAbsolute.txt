@@ -1,0 +1,122 @@
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.deps.json
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.json
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.dev.json
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.dll
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.input.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.output.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Defaulet.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User_Login\Asancode5\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CopyComplete
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.deps.json
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.json
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.dev.json
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.dll
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfo.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.input.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.output.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\SuccessRegister.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Defaulet.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CopyComplete
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\ActiveCode.g.cshtml.cs
+C:\Users\HP\Desktop\User\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ActiveEmail.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.deps.json
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.json
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.dev.json
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.dll
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.input.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.output.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\ActiveCode.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\SuccessRegister.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ActiveEmail.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Defaulet.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User_Login\Asancode 10\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CopyComplete
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.deps.json
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.json
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.runtimeconfig.dev.json
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.dll
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\bin\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.AssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.input.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.TagHelpers.output.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\ActiveCode.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\SuccessRegister.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ActiveEmail.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Defaulet.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.Views.pdb
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.dll
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.pdb
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\UserInformation.csproj.CopyComplete
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\ForgetPassword.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ForgetPassword.g.cshtml.cs
+C:\Users\HP\Desktop\User_Login\UserInformation.App\UserInformation\obj\Debug\netcoreapp2.1\Razor\Views\Account\ResetPassword.g.cshtml.cs

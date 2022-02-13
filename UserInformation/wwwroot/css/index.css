@@ -1,0 +1,20 @@
+﻿#menu-list {
+    padding: 10px;
+}
+
+    #menu-list ul#list li {
+        margin-top: 13px;
+    }
+
+        #menu-list ul#list li a {
+            padding: 6px;
+            color: #008b8b;
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+            #menu-list ul#list li a:hover {
+                color: lightgoldenrodyellow;
+                background-color: #7C7C7C;
+                font-size: 16px;
+            }

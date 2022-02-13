@@ -1,0 +1,42 @@
+﻿@{
+
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 bg-light">
+            <div id="menu-list">
+                <ul id="list">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="d-inline-block text-center">
+                            <a href="#">@User.Identity.Name | خوش آمدید</a>
+                        </li>
+                        <li class="d-inline-block text-center">
+                            <a href="/LogOut">LogOut |</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="d-inline-block text-center mr-3">
+                            <a href="/Register">Register |</a>
+                        </li>
+                        <li class="d-inline-block text-center mr-3">
+                            <a href="/Login">Login |</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-10 bg-blue text-center mb-md-5">
+            <h1>
+                <i class="fa fa-home bg-success"></i>
+                <code>|</code> Hello WellCom Home Page
+            </h1>
+            <img src="/Images/api.jpg" alt="landingImage" class="img-fluid">
+            <p class="alert-warning">this Education is for Login and Register</p>
+        </div>
+    </div>
+</div>
